@@ -1,5 +1,5 @@
-######  `MyWayPoints_v2` 
-<p align="center">![](https://drive.google.com/uc?id=1Mlun5Opq_dVCkoU-1rNBYYeYUUS6oyiY)![](https://drive.google.com/uc?id=1zL0v6AUdw3YbLz7Mw8f0VNaH348_3xIg)</p>
+
+![](https://drive.google.com/uc?id=1Mlun5Opq_dVCkoU-1rNBYYeYUUS6oyiY)![](https://drive.google.com/uc?id=1zL0v6AUdw3YbLz7Mw8f0VNaH348_3xIg)
 
 The app is hosted online. [Link](http://monir007.pythonanywhere.com/)
 
